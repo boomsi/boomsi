@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boomsi
-- 👀 I’m interested in Money *^*
-- 🌱 I’m currently learning how to enjoy life
+- 👀 Observe the world
+- 🌱 As a software development engineer in China
 
 <!---
 boomsi/boomsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
