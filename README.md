@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @boomsi
-- 👀 Observe the world
 - 🌱 As a software development engineer in China
 
 <!---
